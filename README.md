@@ -1,5 +1,5 @@
 ### Hello, I'm Nathan 👋
 
-Currently I don't know what to put here, so here is a quote:
+I'm currently working on what to put here, so in the meantime here is Mosher’s Law of Software Engineering:
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+> Don’t worry if it doesn’t work right. If everything did, you’d be out of a job
