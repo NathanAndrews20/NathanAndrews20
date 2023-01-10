@@ -1,4 +1,8 @@
-# Hello, I'm Nathan 👋
+### Hello, I'm Nathan 👋
+
+Currently I don't know what to put here, so here is a quote:
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <!--
 **NathanAndrews20/NathanAndrews20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
